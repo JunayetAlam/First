@@ -1,0 +1,12 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.dll
+*.exe
+*.pdb
+*.cache
+project.lock.json
+*.nupkg
