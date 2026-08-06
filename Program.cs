@@ -6,4 +6,5 @@
 
 // Console.WriteLine($"Developer {name} is {age} years old and {role} and he is {(isActive ? "active" : "inactive")}");
 
-TypeTest.Run();
+// TypeTest.Run();
+Properties.Run();
