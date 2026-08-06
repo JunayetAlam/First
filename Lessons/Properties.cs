@@ -1,15 +1,10 @@
 public class Properties
 {
 
-    public class User
+    public class User(string name, int id)
     {
-        public string Name;
-        public int Id { get; set; }
-        public User(string name, int id)
-        {
-            Name = name;
-            Id = id;
-        }
+        public string Name = name;
+        public int Id { get; set; } = id;
     }
 
 
